@@ -33,7 +33,7 @@ chmod +x TH3BOSS.sh
 
 🔸➖🔹➖🔸➖🔹
 
-# Enter A Phone Number & Confirmation Code >>
+# راح يطلب ايدي المطور وراها رقم البوت>>
 
 🔸➖🔹➖🔸➖🔹
 
