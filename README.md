@@ -10,6 +10,7 @@
 🔸➖🔹➖🔸➖🔹
 
 cd $HOME
+
 🔸➖🔹➖🔸➖🔹
 
 git clone https://github.com/alaajs/memo17.git
@@ -60,7 +61,7 @@ screen ./autobd.sh
 
 cd $HOME && git clone https://github.com/alaajs/memo17.git && cd memo17 && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
 
-OR
+او
 
 cd $HOME && git clone https://github.com/alaajs/memo17.git && cd memo17 && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && chmod 777 autobd.sh && screen ./autobd.sh
 ```
