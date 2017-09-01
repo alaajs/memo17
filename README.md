@@ -18,6 +18,7 @@ git clone https://github.com/alaajs/memo17.git
 🔸➖🔹➖🔸➖🔹
 
 cd memo17
+
 🔸➖🔹➖🔸➖🔹
 
 chmod +x TH3BOSS.sh
