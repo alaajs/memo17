@@ -1,5 +1,6 @@
 
 🔸➖🔹➖🔸➖🔹
+
  << كـيـفـيـه تـنـصـيـب ميمو 17 >>
  
 🔸➖🔹➖🔸➖🔹
@@ -10,25 +11,44 @@
 
 cd $HOME
 🔸➖🔹➖🔸➖🔹
+
 git clone https://github.com/alaajs/memo17.git
+
 🔸➖🔹➖🔸➖🔹
+
 cd memo17
 🔸➖🔹➖🔸➖🔹
+
 chmod +x TH3BOSS.sh
+
 🔸➖🔹➖🔸➖🔹
+
 ./TH3BOSS.sh install
+
 🔸➖🔹➖🔸➖🔹
+
 ./TH3BOSS.sh 
+
 🔸➖🔹➖🔸➖🔹
+
 # Enter A Phone Number & Confirmation Code >>
+
 🔸➖🔹➖🔸➖🔹
+
 # For Auto Launch >>
+
 🔸➖🔹➖🔸➖🔹
+
 cd memo17
+
 🔸➖🔹➖🔸➖🔹
+
 chmod 777 autobd.sh
+
 🔸➖🔹➖🔸➖🔹
+
 screen ./autobd.sh
+
 🔸➖🔹➖🔸➖🔹
 
 
